@@ -1,0 +1,6 @@
+<Project>
+	<PropertyGroup>
+		<DredgePath>D:\Steam\steamapps\common\DREDGE</DredgePath>
+		<OutputPath>$(DredgePath)\Mods\iainsaun.BigSpender</OutputPath>
+	</PropertyGroup>
+</Project>
