@@ -1,7 +1,7 @@
 # Big Spender
 An attempt to make money more useful, because I had way too much at the end of the game.
 
-### Features
+### Planned Features
 - Higher starting debt.
 - Upgrades feel more expensive.
 - Net enabled from the start (otherwise starting debt prevents you getting Nets).
