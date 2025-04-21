@@ -2,7 +2,7 @@
 	"Author": "iainsaun",
 	"Name": "Big Spender",
 	"ModGUID": "iainsaun.BigSpender",
-	"Version": "0.1.0",
+	"Version": "0.2.0",
 	"ModAssembly": "BigSpender.dll",
 	"MinWinchVersion": "0.6.0",
 	"Entrypoint": "BigSpender.Loader/Initialize"
