@@ -18,11 +18,12 @@ An attempt to make money more useful, because I had way too much at the end of t
 - Fish sell cost reduced.
   - Night fish sell for a bit more than day fish.
   - Aberrations sell for a lot more than regular fish.
+  - Trophies get a bump in sell price, maybe throw back the duds and keep these!
+  - Dredged materials increased value, now worth dredging to sell.
 - Faster docking thanks to copied FastDock mod.
 
 ### To Do
 - Adjust starting debt.
-- Trophy bump.
 - Enable Net from start.
 - Upgrade option for aberration/trophy chance.
 - Positive relationship between panic and aberration chance.
