@@ -1,7 +1,8 @@
 # Big Spender
-An attempt to make money more useful, because I had way too much at the end of the game.
+### A mod to make money harder to acquire and more useful in the game.
+![fishmonger_dredge_2](https://github.com/user-attachments/assets/947a8e49-df97-481c-91b1-9f3db84199b4)
 
-### Planned Features
+## Planned Features
 - Higher starting debt.
 - Upgrades feel more expensive.
 - Net enabled from the start (otherwise starting debt prevents you getting Nets).
@@ -12,9 +13,10 @@ An attempt to make money more useful, because I had way too much at the end of t
 - Panic increases aberrations chance by a lot, risk/reward in fishing.
 - 'Wait' option while at sea, prevents attacks but freezes panic at current level, time will still pass so fish freshness will reduce.
 - Buoys slowly reduce panic?
+
 - QOL adjustments such as faster docking.
 
-### Complete
+## Complete
 - Fish sell cost reduced.
   - Night fish sell for more than day fish.
   - Aberrations sell for more than regular fish.
@@ -26,7 +28,7 @@ An attempt to make money more useful, because I had way too much at the end of t
   - Shipwright at Greater Marrow is finally interested in buying materials.
 - Faster docking thanks to copied FastDock mod.
 
-### To Do
+## To Do
 - Adjust starting debt.
 - Enable Net from start.
 - Upgrade option/tool for aberration/trophy chance.
