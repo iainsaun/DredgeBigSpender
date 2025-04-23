@@ -15,7 +15,8 @@
 - ~'Wait' option while at sea, prevents attacks but freezes panic at current level, time will still pass so fish freshness will reduce.~
 - ~Buoys slowly reduce panic?~
 - Some QOL adjustments such as faster docking, more fish per spot, fishing doesn't increase time as fast.
- *Crossed out feature ideas out-of-scope for this mod.*
+
+  *Crossed out feature ideas out-of-scope for this mod.*
 
 ## Complete
 - Fish sell cost reduced.
