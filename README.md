@@ -4,17 +4,19 @@
 
 ## Planned Features
 - Higher starting debt.
+- Money is attainable in more ways and is used more often.
 - Upgrades feel more expensive.
-- Net enabled from the start (otherwise starting debt prevents you getting Nets).
+- ~Net enabled from the start (otherwise starting debt prevents you getting Nets).~
 - Regular fish will be worth much less, although there will be a small bump for trophies.
 - Aberrations will be worth much more than regular fish for balance, and again with a bump for trophies.
 - Purchaseable upgrades to improve aberration and trophy chances.
 - Fuel? Food? Mooring fee for towns?
 - Panic increases aberrations chance by a lot, risk/reward in fishing.
-- 'Wait' option while at sea, prevents attacks but freezes panic at current level, time will still pass so fish freshness will reduce.
-- Buoys slowly reduce panic?
+- ~'Wait' option while at sea, prevents attacks but freezes panic at current level, time will still pass so fish freshness will reduce.~
+- ~Buoys slowly reduce panic?~
+- Some feature ideas out-of-scope for this mod.
 
-- QOL adjustments such as faster docking.
+- Some QOL adjustments such as faster docking, more fish per spot, fishing doesn't increase time as fast.
 
 ## Complete
 - Fish sell cost reduced.
@@ -26,16 +28,24 @@
   - Treasure is still treasure and very much worth selling, especially early game.
   - Ironhaven crates and canisters are now sellable and worth selling.
   - Shipwright at Greater Marrow is finally interested in buying materials.
-- Faster docking thanks to copied FastDock mod.
+- Faster docking thanks to altered FastDock mod.
 
 ## To Do
 - Adjust starting debt.
-- Enable Net from start.
+- ~Enable Net from start.~
+- Make boat upgrades cost money only, not materials.
+- Make iron rig gadgets cost money only, add more such as boat speed enhancer (like the books).
 - Upgrade option/tool for aberration/trophy chance.
+- Trophy chance improvement.
+- Trophy chance enhancement items.
+- Improve trophy chance by throwing back fish.
+- More bartering books?
+- Resize bait so it's more worthwhile taking a lot.
 - Positive relationship between panic and aberration chance.
 - Fuel.
 - Food.
   - Eat the fish?!
 - Mooring fees.
-- Calming buoys.
-- 'Wait' at sea.
+- Shore leave, resting on land to recover from panic, but it costs.
+- ~Calming buoys.~
+- ~'Wait' at sea.~
