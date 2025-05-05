@@ -1,0 +1,8 @@
+{
+	"BigSpenderKey": {
+		"type": "text",
+		"title": "BigSpender.key.title",
+		"tooltip": "BigSpender.key.tooltip",
+		"value": "delete"
+	}
+}

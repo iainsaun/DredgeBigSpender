@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using HarmonyLib;
+﻿using HarmonyLib;
 // Copied from -> github.com/MegaPiggy/DredgeFastDock
 // 2x speed is enough for me!
 namespace BigSpender.QOL.Patches
