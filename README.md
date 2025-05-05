@@ -18,7 +18,8 @@
 
   *Crossed out feature ideas out-of-scope for this mod.*
 
-## Complete
+## Features implemented
+- More challenging starting debt.
 - Fish sell cost reduced.
   - Night fish sell for more than day fish.
   - Aberrations sell for more than regular fish.
@@ -30,8 +31,7 @@
   - Shipwright at Greater Marrow is finally interested in buying materials.
 - Faster docking thanks to altered FastDock mod.
 
-## To Do
-- Adjust starting debt.
+## Features still to add
 - ~Enable Net from start.~
 - Make boat upgrades cost money only, not materials.
 - Make iron rig gadgets cost money only, add more such as boat speed enhancer (like the books).
