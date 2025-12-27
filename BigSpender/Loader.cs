@@ -25,7 +25,7 @@ public class Loader
 
         //GameManager.Instance.GameConfigData.trophyNotchSpawnChance = 1;
         //GameManager.Instance.GameConfigData.fishToCatchBetweenTrophyNotches = 0;
-        GameManager.Instance.GameConfigData.greaterMarrowDebt = 500;
+        GameManager.Instance.GameConfigData.greaterMarrowDebt = 300;
     }
 
     
